@@ -1,4 +1,6 @@
 # announcement
+I've been getting a lot of reports about people using the warehouse code maliciously. Wish everyone could provide more useful information? This will protect the mining pool services that my partners and I legally operate in Switzerland.
+
 
 I have received feedback from many people that the Trojan samples I collected and the legal mining pools I opened with my partners in Switzerland have been maliciously used. I've shut down the repository!
 
